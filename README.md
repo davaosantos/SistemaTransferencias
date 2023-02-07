@@ -1,7 +1,9 @@
 # SistemaTransferencias
 Sistema para agendamento de transferências bancárias
 
-- Projeto separado em duas branches : 
+- Descrição das branches : 
+
+* Master - Contendo api e front-end do projeto
 
 * Front-end - Página de envio de transferência bancária e página com listagem do histórico de transferências utilizando AngularJS e Axios para requisições
 
